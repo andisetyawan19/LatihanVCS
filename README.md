@@ -12,6 +12,12 @@
 ![img 1](screenshot/1.png) 
 
 - jika sudah terdownload maka lakukan penginstalan di pc kalian.
+### LANGKAH AWAL MENGGUNAKAN GITHUB
+
+* ### LOGIN AKUN GITHUB
+  - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun.
+
+![img 2](screenshot/2.png)  
 
 
 
