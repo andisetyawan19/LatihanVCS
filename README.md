@@ -12,7 +12,7 @@
 ![img 1](screenshot/1.png) 
 
 - jika sudah terdownload maka lakukan penginstalan di pc kalian.
-### LANGKAH AWAL MENGGUNAKAN GITHUB
+### LANGKAH AWAL MENGGUNAKAN GITHUB dan MEMBUAT REPOSITORY
 
 * ### LOGIN AKUN GITHUB
   - Bukalah Github pada situs resminya yaitu *github.com*. Setelah itu pilih menu Sign Up yang terletak pada pojok kanan atas jika memang belum mempunyai akun.
@@ -24,7 +24,18 @@
 
  - setelah itu akan muncul beranda akun github kalian. setelah itu buat repository dengan cara klik tombol "+" di pojok kanan atas kemudian pilih new "repository".
  ![img 4](screenshot/5.png)
- 
+
+ - Langkah selanjutnya isi nama repository yang ingin kalian buat.
+ ![img 5](screenshot/6)
+
+ - Setelah mengisi nama, kemudian tambahkan file README.md pada repository.
+ ![img 6](screenshot/7)
+
+ kemudian klik tombol "create repository" sebagai langkah akhir mrmbuat repository.
+ ![img 8](screenshot/8)
+
+ ### Selesai Selamat mencoba ya ges ya
+
 
 
 
