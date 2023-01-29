@@ -13,12 +13,22 @@
 
 - jika sudah terdownload maka lakukan penginstalan di pc kalian.
 
-### CARA MENGGUNAKAN GITHUB
-
-* ### login akun github
-    - bukalah github pada situs resminya yaitu *github.com* setelah itu pilih menu sign up yang terletak pada pojok kanan atas jika belum mempunyai akun.
-! [img 2](screenshot/2.png)
-    
-    - kemudian isilah data dan email dengan benar 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[def]: screenshot/3.png
