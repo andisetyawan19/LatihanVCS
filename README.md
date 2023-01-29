@@ -20,19 +20,24 @@
 ![img 2](screenshot/2.png)  
 
  - Kemudian, isilah data & email kalian dengan benar.
+
  ![img 3](screenshot/3.png)
 
  - setelah itu akan muncul beranda akun github kalian. setelah itu buat repository dengan cara klik tombol "+" di pojok kanan atas kemudian pilih new "repository".
+
  ![img 4](screenshot/5.png)
 
  - Langkah selanjutnya isi nama repository yang ingin kalian buat.
- ![img 5](screenshot/6)
+
+ ![img 5](screenshot/6.png)
 
  - Setelah mengisi nama, kemudian tambahkan file README.md pada repository.
- ![img 6](screenshot/7)
+
+ ![img 6](screenshot/7.png)
 
  - kemudian klik tombol "create repository" sebagai langkah akhir mrmbuat repository.
- ![img 8](screenshot/8)
+
+ ![img 8](screenshot/8.png)
 
  ### Selesai Selamat mencoba ya ges ya
 
