@@ -19,6 +19,12 @@
 
 ![img 2](screenshot/2.png)  
 
+ - Kemudian, isilah data & email kalian dengan benar.
+ ![img 3](screenshot/3.png)
+
+ - setelah itu akan muncul beranda akun github kalian. setelah itu buat repository dengan cara klik tombol "+" di pojok kanan atas kemudian pilih new "repository".
+ ![img 4](screenshot/5.png)
+ 
 
 
 
