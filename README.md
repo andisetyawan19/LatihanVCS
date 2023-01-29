@@ -31,7 +31,7 @@
  - Setelah mengisi nama, kemudian tambahkan file README.md pada repository.
  ![img 6](screenshot/7)
 
- kemudian klik tombol "create repository" sebagai langkah akhir mrmbuat repository.
+ - kemudian klik tombol "create repository" sebagai langkah akhir mrmbuat repository.
  ![img 8](screenshot/8)
 
  ### Selesai Selamat mencoba ya ges ya
